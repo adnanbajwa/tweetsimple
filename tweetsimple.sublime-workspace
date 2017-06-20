@@ -223,6 +223,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/tweetsimple/tweetsimple/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 3128,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tweetsimple/tweetsimple/settings/__init__.py",
+			"settings":
+			{
+				"buffer_size": 88,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -268,10 +286,20 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/adnanbajwa/dev/python/tweetsimple"
+		"/Users/adnanbajwa/dev/python/tweetsimple",
+		"/Users/adnanbajwa/dev/python/tweetsimple/src",
+		"/Users/adnanbajwa/dev/python/tweetsimple/src/tweetsimple",
+		"/Users/adnanbajwa/dev/python/tweetsimple/src/tweetsimple/tweetsimple",
+		"/Users/adnanbajwa/dev/python/tweetsimple/src/tweetsimple/tweetsimple/settings",
+		"/Users/adnanbajwa/dev/python/tweetsimple/venv/lib",
+		"/Users/adnanbajwa/dev/python/tweetsimple/venv/lib/python3.6"
 	],
 	"file_history":
 	[
+		"/Users/adnanbajwa/dev/python/tweetsimple/src/tweetsimple/tweetsimple/settings/base.py",
+		"/Users/adnanbajwa/dev/python/tweetsimple/src/tweetsimple/tweetsimple/settings.py",
+		"/Users/adnanbajwa/dev/python/tweetsimple/src/tweetsimple/tweetsimple/settings/production.py",
+		"/Users/adnanbajwa/dev/python/tweetsimple/src/tweetsimple/tweetsimple/settings/__init__.py",
 		"/Users/adnanbajwa/dev/python/tweetsimple/README.txt",
 		"/Users/adnanbajwa/dev/appDir/ngSrvup/client/src/app/search-detail/search-detail.component.html",
 		"/Users/adnanbajwa/dev/appDir/ngSrvup/client/src/assets/json/videos.json",
@@ -370,8 +398,68 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/tweetsimple/tweetsimple/settings/local.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								837,
+								837
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/tweetsimple/tweetsimple/settings/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
